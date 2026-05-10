@@ -1,7 +1,7 @@
 body {
     background-color: #e6f2ff;
     font-family: Arial,"microsoft jhenghei";
-    margin: 0;
+    margin: 20;
 }
 
 h1 {
@@ -26,16 +26,6 @@ nav a:hover{
 
 p{
     margin: 10px;
-}
-
-footer{
-    display: flex;
-    justify-content: space-around;
-    font-family: "microsoft jhengei";
-    background-color: #b6d7ffaf;
-    width: 100%;
-    font-size: 10px;
-    text-align: center;
 }
 
 .hero{
